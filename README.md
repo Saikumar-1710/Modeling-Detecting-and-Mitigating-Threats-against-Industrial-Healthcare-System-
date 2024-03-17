@@ -1,1 +1,1 @@
-# Modeling-Detecting-and-Mitigating-Threats-against-Industrial-Healthcare-System-
+# Modeling-Detecting-and-Mitigating-Threat-against-Industrial-Healthcare-System-
